@@ -1,0 +1,283 @@
+[ 
+    {
+      "id": 35,
+      "question": "Why do you  focus on no-code tutorials specifically?",
+      "answer": "I used to get so frustrated with the technical hurdles of game development. When I found Rosebud, it was like a whole new world opened up. I realized how many people must feel the same way I did, so I wanted to show them that making games doesn't have to be so complicated. No-code tutorials felt like the perfect way to do that.",
+      "relatedQuestions": [],
+      "unlockRequirements": []
+    },
+    {
+      "id": 36,
+      "question": "What inspired you to start making YouTube videos about your Rosebud projects?",
+      "answer": "I make YouTube videos about my Rosebud projects because I want to show people that making games doesn't have to be complicated. Creating with AI makes the whole process easier and way more fun. YouTube feels like the best way to show how to create with AI, and help others see what's possible. My goal is to make it easy for anyone to start building their own projects with Rosebud, no matter their experience level.",
+      "relatedQuestions": [],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 37,
+      "question": "What are some of the biggest challenges you've faced when creating no-code tutorials?",
+      "answer": "Honestly, the hardest part is putting myself in the shoes of someone with no experience at all. I try to avoid showing or talking about code as much as possible. My goal is to make it super clear that anyone can create games or apps if they learn how to work with AI tools like Rosie. It's not easy, but it's worth it because it shows people what's possible and breaks down those 'I can't do this' barriers to creating with Rosebud.",
+      "relatedQuestions": [],
+      "unlockRequirements": []
+    },
+    {
+      "id": 38,
+      "question": "What kind of feedback have you gotten from the Rosebud community that's been particularly helpful?",
+      "answer": "Honestly, the most meaningful feedback is hearing from people who don't know how to code, but used my tutorials to make something cool. I remember my first no-code tutorial for Flappy Bird, I thought it might be too technical. Then someone said, 'This is exactly what I needed to get started!' That really stuck with me. It made me want to keep lowering barriers so more people can use Rosebud to create projects they're proud of.",
+      "relatedQuestions": [],
+      "unlockRequirements": []
+    },
+    {
+      "id": 39,
+      "question": "What projects are best for someone just starting to make things for other people?",
+      "answer": "Start with something small and useful. Think about what bugs you or slows you down, and try making a tool or app to fix it. For example, if you're tired of repeating the same prompts in Rosebud, you could create a tool that suggests prompts based on ones you've used before. Use it yourself first—if it helps you, chances are it'll help others too. Then share it, get feedback, and improve it. That process of helping others solve a problem is the best way to get started.",
+      "relatedQuestions": [],
+      "unlockRequirements": []
+    },
+    {
+      "id": 1,
+      "question": "What advice do you have for someone learning game dev?",
+      "answer": "Start small. Create projects that you can finish in a day or two. And share your progress, even when it feels incomplete. The feedback will help you keep going.",
+      "relatedQuestions": [2, 3, 4],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "question": "What are some small projects you made at first, and how did they help you grow?",
+      "answer": "I made lots of small arcade style 2D games, like BackAtack, Freezer, and Triochet. They were fun to play for a few minutes and have terrible art. Sharing these games on the rosebud discord helped me see i could make something fun to play, and inspired me to try something new in the next game.",
+      "relatedQuestions": [1, 3, 4],
+      "unlockRequirements": [1]
+    },
+    {
+      "id": 3,
+      "question": "What's the most surprising thing you've learned from sharing your projects?",
+      "answer": "The most surprising thing was how supportive the community is. Even incomplete projects received constructive feedback and encouragement.",
+      "relatedQuestions": [1, 2, 4],
+      "unlockRequirements": [1]
+    },
+    {
+      "id": 4,
+      "question": "What are your tips for making a Rosebud project that stands out when shared?",
+      "answer": "Focus on unique gameplay mechanics, polish the user experience, and add your personal creative touch. Documentation and presentation matter too.",
+      "relatedQuestions": [1, 2, 3],
+      "unlockRequirements": [1]
+    },
+    {
+      "id": 5,
+      "question": "If you could only share one piece of advice with your past self, what would it be and why?",
+      "answer": "Make things for other people, not just yourself. It'll make your work feel more meaningful, help you learn faster, and connect you to people who can support you.",
+      "relatedQuestions": [6, 7, 8],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "question": "What held you back from creating for others when you were first learning to make games?",
+      "answer": "I was just doing it for myself. I didn't realize other people ran into the same problems I was solving or that what I was learning could actually help them.",
+      "relatedQuestions": [5, 7, 8],
+      "unlockRequirements": [5]
+    },
+    {
+      "id": 7,
+      "question": "What made you switch to creating for others with Rosebud?",
+      "answer": "Talking to Jason made it click. He told me tutorials could help people and be a path to working with the team. I saw there was a need for no-code tutorials and decided to step up.",
+      "relatedQuestions": [5, 6, 8],
+      "unlockRequirements": [5]
+    },
+    {
+      "id": 8,
+      "question": "What would you tell your past self about starting to make things for others?",
+      "answer": "Don't overthink it. Start small and share what you know now. You'll get better by doing it, and you'll meet people who care about what you're making.",
+      "relatedQuestions": [5, 6, 7],
+      "unlockRequirements": [5]
+    },
+    {
+      "id": 9,
+      "question": "How did you discover Rosebud, and what pulled you in once you found it?",
+      "answer": "I found Rosebud AI while searching for game jams on itch.io. I was struggling to finish projects, but I saw a community livestream and realized Rosebud could provide the feedback and support I needed. And, realizing there was a community of people creating games with AI made me feel like I had found my people. So, it was really the community that motivated me to join and submit my first game.",
+      "relatedQuestions": [10, 11, 12],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 10,
+      "question": "Can you tell me a bit about your background before using rosebud?",
+      "answer": "I'm a creator with a background in programming and web development, and I've worked as a text data analyst at my college. I love using AI tools, like ChatGPT, to scratch my own itches. For example, building an AI dungeon master for playtesting my table top role play game.",
+      "relatedQuestions": [9, 11, 13],
+      "unlockRequirements": [9]
+    },
+    {
+      "id": 11,
+      "question": "Is there any skill or experience outside of coding that you feel contributed to your experience creating games?",
+      "answer": "I have a lot of experience using AI tools like ChatGPT in projects of my own, like websites and tabletop role-playing games, and that has made it lot easier to get started creating games with Rosebud.",
+      "relatedQuestions": [9, 10, 12],
+      "unlockRequirements": [9]
+    },
+    {
+      "id": 12,
+      "question": "Before using Rosebud, what were some of the tools or platforms you experimented with, and what was your experience like?",
+      "answer": "I experimented with ChatGPT and GitHub Copilot. ChatGPT is flexible, allowing me to be super creative - like, I'd use it as a programming assistant at work, and then as an AI character to test my roleplay game for fun. Copilot is convenient for coding, but isn't flexible. Hard to use for brainstorming and creative collaboration during a project. Using both of these tools led to a feeling of being isolated and frustrated. It's not obvious how to connect with other users, and I was experimenting alone for a long time.",
+      "relatedQuestions": [9, 13, 14],
+      "unlockRequirements": [9]
+    },
+    {
+      "id": 13,
+      "question": "After gaining access to Rosebud, how did you approach learning and experimenting with the platform? What were your first steps?",
+      "answer": "I started by working with Rosie to complete and share a game for the education and AI game jam. After the jam, I had asked around on discord to figure out what I could do to learn faster. I was told about the game showcase where I would get feedback on any game I shared. Taking the advice, I started to work in public and showcase a small game every few days.",
+      "relatedQuestions": [12, 14, 9],
+      "unlockRequirements": [9]
+    },
+    {
+      "id": 14,
+      "question": "Of the games you've created with Rosebud, is there one that you feel particularly satisfied with?",
+      "answer": "I'm really satisfied with my new FPS game called The Last Free Man",
+      "relatedQuestions": [13, 12, 9],
+      "unlockRequirements": [9]
+    },
+    {
+      "id": 15,
+      "question": "What's a piece of advice you've gotten that helped you a lot?",
+      "answer": "One tip I got was that it's a good habit to ask others for help. It can be really hard to open up to others about what you're struggling with or confused about. Other people can help you get where you want to go. It helps me realize that often what holds me back from making progress on a project is usually that I don't know what to do next, and I can ask advice from others or even AI to get help reaching my goals.",
+      "relatedQuestions": [16, 17, 18],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 16,
+      "question": "What's the most impactful moment where asking for help made a big difference in your life or a project you were working on?",
+      "answer": "One thing that stuck out to me was when I wanted to post YouTube videos but was afraid they weren't good enough. I had lots of files on my computer but no videos on my YouTube channel. I asked a counselor what to do, and he suggested I share it with just one person first, start small basically, and he offered to watch one of those videos. As soon as I shared it with someone I trusted, and he thought I was making good progress, everything got so much easier, and I was able to keep moving, keep sharing what I was working on, and now I'm regularly posting videos I'm proud of.",
+      "relatedQuestions": [15, 17, 18],
+      "unlockRequirements": [15]
+    },
+    {
+      "id": 17,
+      "question": "How do you decide who to ask for help or advice?",
+      "answer": "Ask for advice from people who have already learned, created, or achieved whatever you're going after. If you're in a Discord server with someone who created something that inspires you, send them a private message. Ask a smart question and share what you're working on. Most of the time, these people will be happy to share what they've learned with you, especially if you are persistent and helpful.",
+      "relatedQuestions": [15, 16, 18],
+      "unlockRequirements": [15]
+    },
+    {
+      "id": 18,
+      "question": "How do you prepare to make the most of advice when someone offers it?",
+      "answer": "Think of it like a challenge. Plan to act on whatever advice they have immediately, and plan to come back within a day or a week to show whatever you did. Following up shows you care enough about their advice to act on it. Come back ready to learn more from them about your next steps.",
+      "relatedQuestions": [15, 16, 17, 19],
+      "unlockRequirements": [15]
+    },
+    {
+      "id": 19,
+      "question": "What's a way you could be helpful or valuable to someone you're asking for advice from?",
+      "answer": "Put yourself in their shoes. What would make them feel like you're not just asking for something, but offering something too? Show that you are doing the work. That's where your commitment to taking action, putting your work out there, and learning from what you create makes you stand out.",
+      "relatedQuestions": [18],
+      "unlockRequirements": [15]
+    },
+    {
+      "id": 20,
+      "question": "What's a personal milestone you're working toward?",
+      "answer": "I want to join the Rosebud team and help people learn to use this awesome app for creating cool projects! I love seeing a team of dedicated and supportive people making Rosebud better every day. I want to make lots of accessible projects that help everyone get the most out of Rosebud. That's what I'm here to do. So working side by side with the team feels like the best goal I can aim for right now.",
+      "relatedQuestions": [21, 22, 23],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 21,
+      "question": "What's one specific skill do you believe will help you stand out to the Rosebud team?",
+      "answer": "I think my persistence stands out a lot. I've been putting out my no code tutorials for months now, and all the while it seems like there are little to no people using them. Why not give up? The no code tutorials are going to make a difference, especially the YouTube videos. It will take time, but there's no reason to give up when these tutorials are making game dev more accessible every day. That's the kind of mindset that the whole Rosebud team must have since this app is so useful, but still hasn't really reached nearly the amount of people who could get so much out of creating with Rosebud.",
+      "relatedQuestions": [20, 22, 23],
+      "unlockRequirements": [20]
+    },
+    {
+      "id": 22,
+      "question": "What unique value do you bring to the table that aligns with Rosebud's mission?",
+      "answer": "I'm a user so I understand the problems that real users have on a daily basis. Take Version History, which is now a feature we have on the app. For months there was daily frustration about not being able to save progress on your Rosebud projects. I figured out a simple way to save versions of your projects on Rosebud because it was so needed at the time. Then I wrote a tutorial about how to do it so we can all get past that annoying roadblock. I'm committed to smoothing out the experience you and I have when we use Rosebud, so we can focus on creating amazing projects.",
+      "relatedQuestions": [20, 21, 23],
+      "unlockRequirements": [20]
+    },
+    {
+      "id": 23,
+      "question": "What's a moment or project you've worked on that shows your dedication to this goal?",
+      "answer": "When I saw that users were struggling to make FPS games, I created an FPS Starter Template and a series of tutorials showing how to build with it. These tutorials help people who might feel daunted by coding start creating games in minutes. It's been one of my most exciting projects because it directly helps people overcome challenges I've faced myself.",
+      "relatedQuestions": [20, 21, 22],
+      "unlockRequirements": [20]
+    },
+    {
+      "id": 24,
+      "question": "What makes rosebud special to you?",
+      "answer": "I really love creating projects like apps and games with AI, and for me rosebud has made that so much easier. Working with code is a big barrier to doing creative work like making apps and games and with rosebud you can quickly develop interesting projects even if you don't already have experience coding. That's what makes it the best app in the world.",
+      "relatedQuestions": [25, 26],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 25,
+      "question": "What's a small but impactful improvement you'd love to see in the Rosebud community?",
+      "answer": "It would be great to see more people supporting each other's projects on Discord and spreading the love. The little stuff, like playing someone's game and dropping a comment, can go a long way in making people want to stick around and be part of the community!",
+      "relatedQuestions": [24, 26],
+      "unlockRequirements": [24]
+    },
+    {
+      "id": 26,
+      "question": "How has using Rosebud changed the way you think about creating games or apps?",
+      "answer": "I used to feel I was cheating myself or something when using AI to write code for me, even when I didn't know much about making games or apps. Using rosebud helped me see that working with AI to create projects is actually a skill too. Sometimes AI knows more than you, and that's okay. Accepting you don't know everything, and working with AI to learn new things, feels like a superpower rather than a weakness to me these days.",
+      "relatedQuestions": [24, 25],
+      "unlockRequirements": [24]
+    },
+    {
+      "id": 27,
+      "question": "What does success look like for you?",
+      "answer": "Making a difference for someone else. I feel like im on the right track, like what im working on is important, when I know it could really help someone else. I feel that when i hear someone learned something new or made something cool or had a good time because of what i've shared.",
+      "relatedQuestions": [28, 29, 30],
+      "unlockRequirements": [],
+      "isFeatured": true
+    },
+    {
+      "id": 28,
+      "question": "What's the most surprising piece of feedback you've received that made you feel your work matters?",
+      "answer": "Hmm. When I posted my first no code video tutorial, a friend who'se always wanted to design games said I made game dev looks super easy. He has has been intimidated by the how long it would take to get up to speed with coding. I thought he'd never come around it, but then I showed him how to make games without coding!",
+      "relatedQuestions": [27, 29, 30],
+      "unlockRequirements": [27]
+    },
+    {
+      "id": 29,
+      "question": "Can you share a recent moment when you knew your work helped someone?",
+      "answer": "I knew it helped someone when I head they realized that creating a cool animation with AI was way easier than they thought it would be. What it made me think was 'Oh, I remember what that was like! I didn't do it myself for so long because i thought it was too hard. Yeah, that's why i wanted to share this, because it's really that easy and it looks so cool!'",
+      "relatedQuestions": [27, 28, 30],
+      "unlockRequirements": [27]
+    },
+    {
+      "id": 30,
+      "question": "How do you make sure the projects you work on are impactful for others?",
+      "answer": "You can't be sure. But you try to make things easier for others, or give them an experience worth remembering. My process is to create something interesting, experience a lot of frustration because I don't know how to do it yet, and then try to make that experience smoother for anyone who does the project with my help. There's no guarantee that you work will make an impact. Just keep trying to help out or improve your projects, keep putting your work out there, and eventually your work will find some people who love it.",
+      "relatedQuestions": [27, 28, 29],
+      "unlockRequirements": [27]
+    },
+    {
+      "id": 31,
+      "question": "What keeps you motivated to create every day?",
+      "answer": "Getting better at what I do every day, even just a little bit, keeps me energized. It could be finding a better way to explain something in a tutorial or seeing a simpler solution while building a project. Learn a bit more everyday, do it long enough, and you start to trust that you'll keep moving forward, even when things get pretty rough.",
+      "relatedQuestions": [32, 33, 34],
+      "unlockRequirements": []
+    },
+    {
+      "id": 32,
+      "question": "What's one small improvement you made recently that had a big impact?",
+      "answer": "You know those ideas you get when working on something that are great , but you can't quite get to just yet? I used to think about those then forget about them so I started to jot down for later as I work on my projects. Everytime i come back to project the next day, i see some surprising next steps that i'm ready to try out. It's a great habit.",
+      "relatedQuestions": [31, 33, 34],
+      "unlockRequirements": [31]
+    },
+    {
+      "id": 33,
+      "question": "What's a mistake you made recently that ended up teaching you something valuable?",
+      "answer": "One example. I amde a fps on rosebud that I really liked  but it go so big that I could not use rosie for coding anymore. I ONLY started to cleaning things so I would have more room to add code AFTER i couldn't work on the project anymore. So in a recent big project I committed to cleaning it up a little bit after each session,. Now i don't have that big mess to deal with anymore.",
+      "relatedQuestions": [31, 32, 34],
+      "unlockRequirements": [31]
+    },
+    {
+      "id": 34,
+      "question": "When was a time you put up with something that wasn't working for too long? Why?",
+      "answer": "I put up with writing tutorials that barely anyone was reading for too long. I knew doing them on video would  be a good way to reach more people. I was afraid of getting on camera and felt more comfortable with my fingers on the keys as a writer. What helped me get to trying out videos was keeping it super short and simple at first, and doing each video as if it was a quick experiment for fun.",
+      "relatedQuestions": [31, 32, 33],
+      "unlockRequirements": [31]
+    }
+]

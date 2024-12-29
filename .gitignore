@@ -1,0 +1,38 @@
+# Node modules directory
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+
+# Coverage directory
+coverage/
+
+# Heroku files (if not required in version control)
+*.pid
+*.log
+
+# Dependency lock files (optional, keep if you'd rather not version them)
+package-lock.json
+yarn.lock
